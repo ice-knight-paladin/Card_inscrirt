@@ -16,7 +16,8 @@ CARDS = {
     "CardHuman3-3.png": (3, 3),  # 11
     "CardHuman4-0.png": (4, 0),  # 12
     "CardHuman4-2.png": (4, 2),  # 13
-    "CardHuman6-0.png": (6, 0)  # 14
+    "CardHuman6-0.png": (6, 0),  # 14
+    "empty.png": False
 }
 
 CARDS_ID = {
